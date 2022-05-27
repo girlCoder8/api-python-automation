@@ -1,0 +1,9 @@
+STAGING:
+  URL_PREFIX: https://api.github.com
+
+
+PRODUCTION:
+  URL_PREFIX: https://api.github.com
+
+
+
