@@ -1,7 +1,7 @@
-# Aixon API Auto Test
+# API Automation Framework
 
 ---
-API Auto Test is a python based project which is triggered by Pytest.
+API Automation Framework is a python based project which is triggered by Pytest.
 
 **Install Requirements**
 
